@@ -14,3 +14,7 @@ A
 src/api/index.ts,0\3\03493a35d9c76619d61c86a19001859bd4d81880
 4
 .env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+@
+test/api.test.ts,6\c\6c7af8fdb611a1d29a74488b104e312a2bb2261c
+@
+test/app.test.ts,4\2\42dbb7c453e9bac44779f5acf4de4015e4839ea0
