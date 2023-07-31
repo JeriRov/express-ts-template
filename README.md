@@ -3,9 +3,8 @@
 How to use this template:
 
 ```sh
-npx express-ts-template --d my-api-name
+npx artemmahey/create -e my-api-name
 ```
-`-d - directory`
 
 Includes API Server utilities:
 
@@ -59,5 +58,12 @@ npm run test
 npm run dev
 ```
 
+## Husky
+
+```
+npm run prepare
+```
+
 # Addition
+
 Template was created using [create-express-api](https://www.npmjs.com/package/create-express-api)
