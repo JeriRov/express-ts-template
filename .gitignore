@@ -73,4 +73,6 @@ typings/
 .serverless
 
 dist
+
+JetBrains IDEs
 .idea
