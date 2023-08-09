@@ -3,7 +3,7 @@
 How to use this template:
 
 ```sh
-npx artemmahey/create -e my-api-name
+npx @artemmahey/create -e my-api-name
 ```
 
 Includes API Server utilities:
